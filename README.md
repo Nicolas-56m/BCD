@@ -3,8 +3,8 @@
 ___
 
 ### Tarefa - 001
-- Normalização da tabela
 
 ___
 
-## Link do arquivo do Excel no REDME
+## Link do arquivo dessa tarefa do Excel no REDME!
+- Normalização da tabela

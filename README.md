@@ -1,4 +1,4 @@
-# BCD
+# BCD - Banco de Dados
 
 ## Tarefa - 001
 

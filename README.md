@@ -1,6 +1,4 @@
 # BCD - Banco de Dados
 
-## Tarefa - 001
-
-### Link do arquivo dessa tarefa do Excel no REDME!
-- Normalização da tabela
+## Tarefa - 01: Normalização da tabela
+- Link do arquivo dessa tarefa do Excel no REDME!

@@ -1,0 +1,2 @@
+# BCD
+Normalização da tabela
